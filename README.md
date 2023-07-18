@@ -3,6 +3,8 @@
 
 <strong>NOT REQUIRE ANY API KEY</strong> ❌🔑 
 
+https://www.youtube.com/watch?v=tVDAQcag9-M&ab_channel=PythonToday
+
 This project features a WebUI utilizing the [G4F API](https://github.com/xtekky/gpt4free). <br>
 Experience the power of ChatGPT with a user-friendly interface, enhanced jailbreaks, and completely free.
 
